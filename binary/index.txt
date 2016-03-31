@@ -1,0 +1,2 @@
+Write a JavaScript program for binary search
+Sample array : [0,1,2,3,4,5,6]
